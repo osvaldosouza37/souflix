@@ -1,0 +1,202 @@
+{
+  "categorias": [
+    {
+      "titulo": "Jogos em geral",
+      "link": "https://www.youtube.com/watch?v=pdD2vMgAdh4",
+      "cor": "yellow",
+      "link_extra": {
+        "text": "Melhores jogos de todos os tempos",
+        "url": "https://www.youtube.com/watch?v=pdD2vMgAdh4"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy VIII",
+          "url": "https://www.youtube.com/watch?v=MtMGzG_91fY"
+        },{
+          "titulo": "Dragon's Crown",
+          "url": "https://www.youtube.com/watch?v=Itt1S_V648U"
+        },
+        {
+          "titulo": "Final Fantasy VII remake",
+          "url": "https://www.youtube.com/watch?v=ERgrFVhL-n4"
+        },
+		{
+          "titulo": "Valkyria pro file",
+          "url": "https://www.youtube.com/watch?v=pcXDZP04oiM"
+        },
+        {
+          "titulo": "Final Fantasy X/X-2 remaster",
+          "url": "https://www.youtube.com/watch?v=xv4uSttPFGI"
+        },
+		{
+          "titulo": "Diablo II",
+          "url": "https://www.youtube.com/watch?v=Xo-60pmsuJE"
+        },
+        {
+          "titulo": "Final Fantasy Dissidia",
+          "url": "https://www.youtube.com/watch?v=1v7GjDhsqRQ"
+        },{
+          "titulo": "Odin Sphere",
+          "url": "https://www.youtube.com/watch?v=_PUirdRXn_s"
+        },
+        {
+          "titulo": "Final Fantasy crisis core",
+          "url": "https://www.youtube.com/watch?v=P7j0Zwvzn88"
+        },{
+          "titulo": "Disgaea 3 Absensce of Detention",
+          "url": "https://www.youtube.com/watch?v=Av0DTPSfSTI"
+        },
+		{
+          "titulo": "Final Fantasy tatics war of the lions",
+          "url": "https://www.youtube.com/watch?v=flj4Djl1ktI"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "purple",
+      "link_extra": {
+        "text": "Entreterimento de primeira",
+        "url": "https://www.youtube.com/watch?v=kHZ2h3FbR5k"
+      },
+      "videos": [
+        {
+          "text": "Entre facas e segredos",
+        "url": "https://www.youtube.com/watch?v=w8GBFvqP1cM&t=17s"
+        },
+        {
+          "titulo": "Jóias brutas",
+          "url": "https://www.youtube.com/watch?v=IOSP5uEbTUc"
+        },
+        {
+          "titulo": "O quinto elemento",
+          "url": "https://www.youtube.com/watch?v=3MLTLnGFNKk"
+        },
+        {
+          "titulo": "Jogador nº 1",
+          "url": "https://www.youtube.com/watch?v=yulwIjJ-C4Q"
+        }, 
+        {
+          "titulo": "Clube da luta",
+          "url": "https://www.youtube.com/watch?v=qtRKdVHc-cE"
+        }, 
+        {
+          "titulo": "Gemini man",
+          "url": "https://www.youtube.com/watch?v=AbyJignbSj0"
+        }
+      ]
+    },
+    {
+      "titulo": "Culinária",
+      "cor": "red",
+      "link_extra": {
+        "text": "Melhores canais de culinária",
+        "url": "https://www.youtube.com/watch?v=yOHNH_k2n7A"
+      },
+      "videos": [
+        {
+          "titulo": "Hambúrguer sourcream e doritos",
+          "url": "https://www.youtube.com/watch?v=jrejwX5JTMk"
+        },
+        {
+          "titulo": "Melhor pão de alho do mundo",
+          "url": "https://www.youtube.com/watch?v=HJ7W712DGq4"
+        },
+        {
+          "titulo": "As famosas tapas italianas",
+          "url": "https://www.youtube.com/watch?v=Sk7ccigeh9s"
+        },
+        {
+          "titulo": "Pão americano",
+          "url": "https://www.youtube.com/watch?v=FGvz2VSE4oM"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Wake up, getup, get out here ",
+          "url": "https://www.youtube.com/watch?v=-09Sox6voGU"
+        },
+        {
+          "titulo": "Lithium flower",
+          "url": "https://www.youtube.com/watch?v=Wolcpa9s6NU"
+        },
+        {
+          "titulo": "Fly me to the moon",
+          "url": "https://www.youtube.com/watch?v=TyltLy8lDPs"
+        },
+        {
+          "titulo": "Natural",
+          "url": "https://www.youtube.com/watch?v=0I647GU3Jsc"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=NeB9TSu08KU"
+        }
+      ]
+    },
+    {
+      "titulo": "Saúde",
+      "cor": "cyan",
+      "link_extra": {
+        "text": "Dicas de exercício e alimentação",
+        "url": "https://www.youtube.com/watch?v=2kCOXLkbsKw"
+      },
+      "videos": [
+        {
+          "titulo": "Rotina para queimar gorduras",
+          "url": "https://www.youtube.com/watch?v=7KSNmziMqog"
+        },
+        {
+          "titulo": "Rotina matinal para trincar o abdômen",
+          "url": "https://www.youtube.com/watch?v=Z_zHF-UwO5A"
+        },
+        {
+          "titulo": "Hipertrofia sem equipamentos",
+          "url": "https://www.youtube.com/watch?v=9GTfPI_6ga8"
+        },
+        {
+          "titulo": "5 segredos para melhorar na barra",
+          "url": "https://www.youtube.com/watch?v=hU-B0R6U-4A"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
